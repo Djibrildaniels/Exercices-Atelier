@@ -1,40 +1,4 @@
-﻿// Console.WriteLine(" Quel age avez vous? : ");
-//         int age_user;
-//         age_user = Convert.ToInt32 (Console.ReadLine());
-
-//         if (age_user < 1){
-
-//             Console.WriteLine("le programme plante");
-
-//         }
-
-//          if (age_user < 18)
-//         {
-//             Console.WriteLine("Vous etes mineur. ");
-
-//         }
-
-//         if (age_user > 18 )
-//         {
-//             Console.WriteLine("Vous etes majeur. ");
-
-//                 if  (age_user >=25 && age_user <30 )
-//                 {
-//                     Console.WriteLine("tu commences ton chemin d’adulte. ");
-//                 }
-
-//                 else if(age_user >=30 && age_user<70)
-//                 {
-
-//                     Console.WriteLine("Vous etes adulte. ");
-//                 }
-//                 else if (age_user >=70){
-
-//                     Console.WriteLine("vous êtes en béton armé !");
-//                 }
-
-//         }
-
+﻿
 
 Console.WriteLine("Vous pouvez rentrer vos pas:");
 
